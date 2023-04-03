@@ -34,7 +34,6 @@ This underscores that surfing is not going away but the climatic factors affecti
 
 Images supporting these results and queries can be found in the following links:
 
-Link to June temperature statistics image: [June Temps image link]
-Link to December temperature statistics image: [December Temps image link]
-Link to wind speed data image: [Wind Speed image link]
-Link to precipitation data image: [Precipitation image link]
+Link to June temperature statistics image: /June_Hawaii_Temperature_Statistics.png
+Link to December temperature statistics image: /December_Hawaii_Temperature_Statistics.png
+Link to January 2023 The Eddie Aikau Big Wave Invitational: <https://youtu.be/eLQzJ5oqrIs>
